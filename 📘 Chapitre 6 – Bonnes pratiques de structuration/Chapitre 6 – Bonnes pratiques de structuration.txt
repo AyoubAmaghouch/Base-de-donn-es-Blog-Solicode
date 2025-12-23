@@ -1,0 +1,4 @@
+﻿Chapitre 6 – Bonnes pratiques de structuration
+La structuration d’une base de données consiste à organiser correctement les tables et les relations pour garantir la cohérence et la performance.
+Il faut utiliser des noms clairs et cohérents, respecter la normalisation pour éviter la redondance, choisir des types de données adaptés et définir correctement les clés primaires et étrangères.
+L’ajout d’index et de commentaires permet d’améliorer les performances et la compréhension de la base.
